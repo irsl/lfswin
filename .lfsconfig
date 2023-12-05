@@ -1,5 +1,5 @@
 [lfs]
-    url = https://9d00-84-236-13-240.ngrok-free.app/irsl/lfswin.git/info/lfs/objects/batch
+    url = https://9d00-84-236-13-240.ngrok-free.app/irsl/lfswin.git/info/lfs
 
-[lfs "https://9d00-84-236-13-240.ngrok-free.app/irsl/lfswin.git/info/lfs/objects/batch"]
+[lfs "https://9d00-84-236-13-240.ngrok-free.app/irsl/lfswin.git/info/lfs"]
     access = basic
